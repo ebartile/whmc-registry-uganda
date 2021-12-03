@@ -1,0 +1,20 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-addons",
+  "name": "lugacloud",
+  "license": "proprietary",
+  "category": "other",
+  "description": {
+    "name": "Luga Cloud",
+    "tagline": "Promote and offer New Ugandan Domain names to your customers."
+  },
+  "support": {
+    "docs_url": "https://registry.co.ug/users/api_tutorials"
+  },
+  "authors": [
+    {
+      "name": "Luga Cloud",
+      "homepage": "https:\/\/www.lugacloud.com\/"
+    }
+  ]
+}
